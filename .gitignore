@@ -1,0 +1,6 @@
+librandn.h
+librandn.so
+*.asm
+randn_dlopen_test
+randn_test
+randn_test_dlopen
